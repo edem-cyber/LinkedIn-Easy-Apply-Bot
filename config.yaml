@@ -1,16 +1,15 @@
-username: <username>
-password: <password>
-phone_number: <phone_number>
+username: edem.agbakpe@outlook.com
+password: cruzer54l
+phone_number: +233553892665
 
-profile_path: '' #can be empty, will default to 'C:\Users\<user>\AppData\Local\Google\Chrome\User Data\Default'
+profile_path: 'https://www.linkedin.com/in/edem-agbakpe/' #can be empty, will default to 'C:\Users\<user>\AppData\Local\Google\Chrome\User Data\Default'
 
 
 positions:
-- Software Engineer
+- Fullstack
 
 
 locations:
-- Michigan
 - Remote
 
 salary: 60,000

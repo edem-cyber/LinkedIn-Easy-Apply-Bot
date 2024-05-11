@@ -50,3 +50,183 @@ are you comfortable commuting to this job's location?
 required
 yes
 no",Yes
+how many years of work experience do you have with mongodb?,3
+how many years of work experience do you have with mysql?,3
+"are you comfortable working in an onsite setting?
+are you comfortable working in an onsite setting?
+required
+yes
+no",Yes
+"are you legally authorized to work in united arab emirates?
+are you legally authorized to work in united arab emirates?
+required
+yes
+no",Yes
+"will you now or in the future require sponsorship for employment visa status?
+will you now or in the future require sponsorship for employment visa status?
+required
+yes
+no",No
+what is your salary expectation for this position?,"40,000"
+"do you have a valid driver's license?
+do you have a valid driver's license?
+required
+yes
+no",Yes
+how many years of work experience do you have with react.js?,1
+"how many years of work experience do you have with html/css validation?
+enter a whole number between 0 and 99",1
+"how many years of work experience do you have with azure devops services?
+enter a whole number between 0 and 99",1
+how many years of work experience do you have with html/css validation?,1
+how many years of work experience do you have with azure devops services?,1
+how many years of work experience do you have with node.js?,1
+"how many years of work experience do you have with automation?
+enter a whole number between 0 and 99",1
+how many years of work experience do you have with javascript?,1
+"how many years of experience do you have with docker and kubernetes?
+enter a decimal number larger than 0.0",1
+how many years of experience do you have with golang?,1
+"do you have prior experience with operating systems with emphasis on resource usage and monitoring?
+do you have prior experience with operating systems with emphasis on resource usage and monitoring?
+required
+       select an option
+       yes
+       no
+  ",1
+"do you have prior experience with monorepo based software development?
+do you have prior experience with monorepo based software development?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",1
+"by checking this box, you will declare that you read and understand the sana commerce privacy policy, and the smartrecruiters privacy policy and smartrecruiters  terms of use.
+by checking this box, you will declare that you read and understand the sana commerce, and the smartrecruitersand smartrecruiters.
+required
+i agree terms & conditions
+select checkbox to proceed",user provided
+"would you require sponsorship to work from this location?
+would you require sponsorship to work from this location?
+required
+yes
+no",No
+"do you have a fluent level in english?
+do you have a fluent level in english?
+required
+yes
+no",Yes
+please give an indication as to your total desired monthly salary in aed:,"60,000"
+"what excites you about easygenerator? why do you want to work here?
+0/1,440
+1440 maximum characters allowed.
+please enter a valid answer",Yes
+"do you have 3+ years of exclusive working experience in the mern stack?
+do you have 3+ years of exclusive working experience in the mern stack?
+required
+yes
+no
+please make a selection",1
+"your message to the hiring manager
+0/2,000
+2000 maximum characters allowed.",user provided
+"what excites you about easygenerator? why do you want to work here?
+27/1,440
+1440 maximum characters allowed.",Yes
+"are you willing to relocate to dubai within 3-6 months of securing the role?
+are you willing to relocate to dubai within 3-6 months of securing the role?
+required
+       select an option
+       yes
+       no
+  ",Yes
+"do you have experience managing/leading/mentoring junior developers? 
+do you have experience managing/leading/mentoring junior developers?
+required
+       select an option
+       yes
+       no
+  ",1
+"how many years experience do you have with ruby on rails?
+enter a decimal number larger than 0.0",1
+"what is your level of proficiency in english?
+what is your level of proficiency in english?
+required
+       select an option
+       none
+       conversational
+       professional
+       native or bilingual
+  ",user provided
+"are you applying from a country that is within +4/-4 hours of the united kingdom?
+are you applying from a country that is within +4/-4 hours of the united kingdom?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"do you have experience leading a software engineering team?
+do you have experience leading a software engineering team?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",1
+"how many years experience do you have as a software engineer?
+enter a decimal number larger than 0.0",1
+"salary for this position is up to £69,000 gbp per year, is this within your expectations?
+salary for this position is up to £69,000 gbp per year, is this within your expectations?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer","60,000"
+"are you applying from a country that is within +4/-4 hours of the united kingdom?
+are you applying from a country that is within +4/-4 hours of the united kingdom?
+required
+       select an option
+       yes
+       no
+  ",Yes
+"are you located in the emea region?
+are you located in the emea region?
+required
+       select an option
+       yes
+       no
+  ",Yes
+"do you have extensive professional experience in a similar senior or team lead role?
+do you have extensive professional experience in a similar senior or team lead role?
+required
+       select an option
+       yes
+       no
+  ",1
+"have you worked on ux/ui development projects in the past?
+have you worked on ux/ui development projects in the past?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"do you possess proficiency in software design and architecture?
+do you possess proficiency in software design and architecture?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"have you previously worked in the crypto space or have a related technical understanding?
+have you previously worked in the crypto space or have a related technical understanding?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"have you worked on ux/ui development projects in the past?
+have you worked on ux/ui development projects in the past?
+required
+       select an option
+       yes
+       no
+  ",Yes
