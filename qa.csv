@@ -230,3 +230,152 @@ required
        yes
        no
   ",Yes
+"do you have 2+ years of solidity development experience?
+do you have 2+ years of solidity development experience?
+required
+       select an option
+       yes
+       no
+  ",1
+"do you have proven experience in delivering projects utilising solidity & evm-based smart contracts?
+do you have proven experience in delivering projects utilising solidity & evm-based smart contracts?
+required
+       select an option
+       yes
+       no
+  ",1
+"are you proficient in rust, golang or c++ programming?
+are you proficient in rust, golang or c++ programming?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"do you have a competent engineering background, with familiarity using docker, linux & visual studio?
+do you have a competent engineering background, with familiarity using docker, linux & visual studio?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"do you have experience working within blockchain or similar?
+do you have experience working within blockchain or similar?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",1
+"are you comfortable working in a fully remote working environment?
+are you comfortable working in a fully remote working environment?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"are you proficient in rust, golang or c++ programming?
+are you proficient in rust, golang or c++ programming?
+required
+       select an option
+       yes
+       no
+  ",Yes
+"do you have a competent engineering background, with familiarity using docker, linux & visual studio?
+do you have a competent engineering background, with familiarity using docker, linux & visual studio?
+required
+       select an option
+       yes
+       no
+  ",Yes
+"what is your level of proficiency in japanese?
+what is your level of proficiency in japanese?
+required
+       select an option
+       none
+       conversational
+       professional
+       native or bilingual
+   please make a selection",user provided
+"are you based in africa?
+are you based in africa?
+required
+yes
+no",Yes
+"do you have 3+ years of experience building and releasing android applications with kotlin and ios applications with swift?
+do you have 3+ years of experience building and releasing android applications with kotlin and ios applications with swift?
+required
+yes
+no",1
+"have you built mobile games and/or e-commerce apps?
+have you built mobile games and/or e-commerce apps?
+required
+yes
+no
+please make a selection",Yes
+"do you have experience with api integration via sdks and rest?
+do you have experience with api integration via sdks and rest?
+required
+yes
+no
+please make a selection",1
+"do you have experience with ci/cd and unit testing?
+do you have experience with ci/cd and unit testing?
+required
+yes
+no
+please make a selection",1
+"do you have experience in producing proof of concepts for new android and/or ios apis, and managing the release of android and/or ios applications?
+do you have experience in producing proof of concepts for new android and/or ios apis, and managing the release of android and/or ios applications?
+required
+yes
+no
+please make a selection",1
+"have you built mobile games and/or e-commerce apps?
+have you built mobile games and/or e-commerce apps?
+required
+yes
+no",Yes
+"do you have experience with api integration via sdks and rest?
+do you have experience with api integration via sdks and rest?
+required
+yes
+no",1
+"do you have experience with ci/cd and unit testing?
+do you have experience with ci/cd and unit testing?
+required
+yes
+no",1
+how many years of work experience do you have with angular?,1
+how many years of experience do you have in the development industry?,1
+"previous experience with e-payment is a must, how many years of experience do you have with this industry?",1
+how many years of experience do you have with cloud (aws or azure or gcp)?,1
+"what is your expected salary (usd/month)?
+enter a decimal number larger than 0.0","7,000"
+what is your expected salary (usd/month)?,"7,000"
+"do you have 2+ years of solidity development experience?
+do you have 2+ years of solidity development experience?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",1
+"do you have proven experience in delivering projects utilising solidity & evm-based smart contracts?
+do you have proven experience in delivering projects utilising solidity & evm-based smart contracts?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",1
+"do you have experience working within blockchain or similar?
+do you have experience working within blockchain or similar?
+required
+       select an option
+       yes
+       no
+  ",1
+"are you comfortable working in a fully remote working environment?
+are you comfortable working in a fully remote working environment?
+required
+       select an option
+       yes
+       no
+  ",Yes
